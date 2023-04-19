@@ -1,6 +1,6 @@
 main:
   - title: "About UNIVERSE-HPC"
-    url: /about/
+    url: {{ site.baseurl }}/about/
   - title: "The Team"
     url: /team/
   - title: "Events"
